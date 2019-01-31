@@ -6,13 +6,14 @@ Specs
 -------
 Ce qui constitue un "troll" :
 
-* 3 points d'exclamation à la suite
-* Allcaps
-* "Benalla"
-* Une URL dans le titre - contains "http"
+[x] 3 points d'exclamation à la suite
+[ ] tout en majuscules
+[x] "Benalla"
+[ ] Une URL dans le titre - contains "http"
 
 
 D'autres choses intéressantes :
+
 * A quelles réponses les citoyens repondent le moins ?
 * Analyse de chaque proposition, un gif par proposition
 

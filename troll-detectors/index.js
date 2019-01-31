@@ -1,4 +1,4 @@
-const SOURCE_FILE = __dirname + '/../data/democratie.json'
+const SOURCE_FILE = __dirname + '/../data/ecologie.json'
 
 
 function concatenateAnswers(contribution) {
@@ -8,6 +8,7 @@ function concatenateAnswers(contribution) {
 
 const detectors = [
 	require('./exclamation-points'),
+	require('./political-scandals'),
 ]
 
 let lineReader = require('readline').createInterface({
