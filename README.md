@@ -14,6 +14,7 @@ Ce qui constitue un "troll" :
 
 D'autres choses intéressantes :
 * A quelles réponses les citoyens repondent le moins ?
+* Analyse de chaque proposition, un gif par proposition
 
 
 
