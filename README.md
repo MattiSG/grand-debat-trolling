@@ -13,7 +13,10 @@ Ce qui laisse supposer un « troll » :
 - [x] Une URL dans le titre de la contribution
 
 
+Résultats
+---------
 
+Sur les réponses à la thématique écologie par exemple, voir le fichier `resulats-ecologie.csv`.
 
 Implémentation
 --------------
