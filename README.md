@@ -6,7 +6,7 @@ Specs
 -------
 Ce qui constitue un "troll" :
 
-[x] 3 points d'exclamation à la suite
+[x] ~3~ 6 points d'exclamation à la suite
 [ ] tout en majuscules
 [x] "Benalla"
 [ ] Une URL dans le titre - contains "http"
