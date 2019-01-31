@@ -8,6 +8,7 @@ function concatenateAnswers(contribution) {
 
 const detectors = [
 	require('./exclamation-points'),
+	require('./http-title'),
 	require('./political-scandals'),
 ]
 
@@ -23,7 +24,7 @@ lineReader.on('line', line => {
 	let trollScore = 0
 
 	detectors.forEach(detector => {
-		if (detector.detect(answersText))
+		if (detector.detect(answersText, contribution))
 			trollScore += detector.weight
 	})
 
